@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/496_Next_Greater_Element_I/496_Next_Greater_Element_I.iml" filepath="$PROJECT_DIR$/496_Next_Greater_Element_I/496_Next_Greater_Element_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/503_Next_Greater_Element_II/503_Next_Greater_Element_II.iml" filepath="$PROJECT_DIR$/503_Next_Greater_Element_II/503_Next_Greater_Element_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicCreationOfStack/DynamicCreationOfStack.iml" filepath="$PROJECT_DIR$/DynamicCreationOfStack/DynamicCreationOfStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack.iml" filepath="$PROJECT_DIR$/Stack.iml" />
+    </modules>
+  </component>
+</project>
